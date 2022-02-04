@@ -20,15 +20,15 @@ Virtual Mouse is a Python Application.Virtual Mouse Consist of two python Script
     - MediaPipe is Google's open-source framework, used for media processing.MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs machine learning (ML) to infer 21 3D landmarks of a hand.
 
 **3. Pyautogui**
-    - PyAutoGUI is a Python automation library used to click, drag,scroll, move, etc. It can be used to click at an exact position. It is used for for controlling mouse movement and clicks of Virtual Mouse.
+    - PyAutoGUI is a Python automation library used to click, drag,scroll, move, etc. It can be used to click at an exact position. It is used for controlling mouse movement and clicks of Virtual Mouse.
 
 ## Demo Video and ScreenShots
 
 
 ### Note: 
 - Use One Hand Only to access the Computer
-- Use Index finger and Middle Finger Only, for smooth runnig of Application.
-- There might be dependency issues occure while implementing this projects. Make Sure use the Upgraded Python Libraries. 
+- Use Index finger and Middle Finger Only, for the smooth running of the Application.
+- There might be dependency issues that occur while implementing this project. Make Sure to use the Upgraded Python Libraries.
     
 
 
